@@ -146,15 +146,12 @@
     Se muestran los pasos necesarios a realizar.
     ....
 
-##  Investigación: Email, Upload.
-    - Email: Se utilizará la funcionalidad del uso de envío de correos electrónicos cuando el proceso de inscripciones culmine y al profesor le llegue la lista de alumnos inscritos en sus grupos a cargo.
-    - Upload: Se utilizará esta funcionalidad para subír, archivos CSV para importar y exportar información en el sistema.
-    Se muestran los pasos realizados para su funcionamiento correcto.
-    ...
+##  Investigación: Front-End.
+    - Utilizar un framework para Front-End que consuma la API Django Rest-Framework.
 
 Github del proyecto:
 
-URL en Heroku:
+URL Proyecto:
 
 URL Playlist YouTube.
 Producción de un PlayList en Youtube explicando cada una de los requerimientos.
