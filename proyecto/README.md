@@ -2,7 +2,7 @@
 <table>
     <theader>
         <tr>
-            <td style="width:25%;"><img src="https://github.com/rescobedoulasalle/iw-23b/blob/main/proyecto/logo_ulasalle_2017.png?raw=true" alt="ULASALLE" style="width:5%; height:auto"/></td>
+            <td style="width:25%;"><img src="https://github.com/rescobedoulasalle/iw-23b/blob/main/proyecto/logo_ulasalle_2017.png?raw=true" alt="ULASALLE" style="width:20%; height:auto"/></td>
             <td>
                 <span style="font-weight:bold;">UNIVERSIDAD LA SALLE</span><br />
                 <span style="font-weight:bold;">FACULTAD DE INGENIERÍA</span><br />
