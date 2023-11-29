@@ -33,19 +33,19 @@
 </theader>
 <tbody>
     <tr>
-        <td>ASIGNATURA:</td><td>Programación Web 2</td>
+        <td>ASIGNATURA:</td><td>Ingeniería Web</td>
     </tr>
     <tr>
-        <td>SEMESTRE:</td><td>III</td>
+        <td>SEMESTRE:</td><td>VIII</td>
     </tr>
     <tr>
-        <td>FECHA INICIO:</td><td>31-Jul-2023</td><td>FECHA FIN:</td>
-        <td>06-Ago-2023</td><td>DURACIÓN:</td><td>04 horas</td>
+        <td>FECHA INICIO:</td><td>01-Agosto-2023</td><td>FECHA FIN:</td>
+        <td>30-Nov-2023</td><td>DURACIÓN:</td><td>04 horas</td>
     </tr>
     <tr>
         <td colspan="3">DOCENTES:
         <ul>
-        <li>Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</li>
+        <li>Richart Smith Escobedo Quispe - r.escobedo@ulasalle.edu.pe</li>
         </ul>
         </td>
     </<tr>
